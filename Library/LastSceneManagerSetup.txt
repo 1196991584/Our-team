@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Mingxue Xu/Scence/Scenes/Menu3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

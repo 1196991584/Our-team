@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Scenes/MENU.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/HaoLi/Scenes/Instruction4.unity
+    guid: dc7bc5bd0e24a0d44ad330a82563eaec
+  - enabled: 1
+    path: Assets/HaoLi/Scenes/Game4.unity
+    guid: c5de4e04d567ecc4a9065a81981af621
+  - enabled: 1
+    path: Assets/HaoLi/Scenes/Menu4.unity
+    guid: 1fa08627289ff1b43b85dd61d7864c81
+  - enabled: 1
+    path: Assets/Jiasi Lu/Scenes 1/Game1.unity
+    guid: 9003f2dc202632f46883677d295c484a
+  - enabled: 1
+    path: Assets/Jiasi Lu/Scenes 1/Menu1.unity
+    guid: 60aca7ab414828845b8348318ee92c63
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Menu/Scenes/Drift Track.unity
+    guid: 62cfeabb350b2244cbc799451b431fbb
+  - enabled: 1
+    path: Assets/Mingxue Xu/Scence/Scenes/Menu3.unity
+    guid: 53fe5df4e8695994ca45075cbc4053b8
+  - enabled: 1
+    path: Assets/Mingxue Xu/Scence/Scenes/Information3.unity
+    guid: 29c700be026c8c840a66d3c626ac2655
+  - enabled: 1
+    path: Assets/Mingxue Xu/Scence/Scenes/Help3.unity
+    guid: f526750ccf5942d4a8954a497bcdcdd1
+  - enabled: 0
+    path: Assets/Mingxue Xu/Scence/Scenes/Game.unity
+    guid: 7d72cedfff0a5e947b7a34c679ada3b9
+  - enabled: 1
+    path: Assets/WenXuan Jiang/Scenes/Game2.unity
+    guid: e82a0c7cf6aa6504daa551b17979d57e
+  - enabled: 1
+    path: Assets/WenXuan Jiang/Scenes/Help2.unity
+    guid: b1f05298fa0953546b7e318c6be9792e
+  - enabled: 1
+    path: Assets/Mingxue Xu/Scence/Scenes/Game3.unity
+    guid: b954a74ff51b09f40a8e43a15664ae43
+  m_configObjects: {}
